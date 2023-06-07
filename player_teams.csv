@@ -1,0 +1,841 @@
+player_id;player_name;player_nickname;last_team_id;last_team_name;last_team_acronym
+21;Felipe Gustavo Da Silva;Felipe;10;Araraquara;ARA
+22;Francisco Tardivo Delben;Chico;19;São José;SJO
+23;Arlindo Gomes Baltazar Neto;Neto;18;Pinheiros;PIN
+25;Deivisson Dos Santos Costa;Deivisson;19;São José;SJO
+26;Jhonatan Luz dos Santos;Jhonatan;2;Flamengo;FLA
+28;Ricardo Leopoldo de Azevedo;Ricardo;23;L. Sorocabana;LSB
+29;Thyago Taroni Aleo;Thyago Aleo;52;Palmeiras;PAL
+30;Matheus dos Prazeres Costa;Matheus;14;Franca;FRA
+31;Arthur Luiz Belchor Silva;Arthur;282;Brasília;BSB
+33;Frederico Rossi Dos Santos;Rossi;3;Brasília Antigo;BRA
+34;Márcio Santos Cipriano;Cipriano;23;L. Sorocabana;LSB
+35;Rafael Rodrigues;Mineiro;19;São José;SJO
+36;José Estevam Ferreira Junior;Estevão;129;Rio Claro;RCB
+38;Cláudio Antônio Gomes Clemente;Brasília;20;Uberlândia;UBE
+39;Diego Pinheiro Da Silva;Diego;3;Brasília Antigo;BRA
+40;Audrei Parisotto;Audrei;16;Minas;MIN
+43;Shilton Alessanco dos Santos;Shilton;16;Minas;MIN
+44;Bernardo Guimarães  Barreto;Bernardo;20;Uberlândia;UBE
+45;Evandro Fernandes Pinto;Soró;23;L. Sorocabana;LSB
+46;Douglas De Paulo Viegas;Viegas;1;Joinville;JOI
+48;Eduardo Citrangolo Barbosa;Barbosa;25;Londrina;LON
+50;Augusto Cesar Bresolin Goes;Augusto;1;Joinville;JOI
+51;Eric Aparecido Soares;Eric;55;Suzano;SUZ
+52;Marcos Martins da Rosa;Marcão;1;Joinville;JOI
+53;Raul Oliveira Rodrigues;Raul;20;Uberlândia;UBE
+54;Vinicius Bristott;V. Bristott;1;Joinville;JOI
+55;Andre Luiz G. de Oliveira;Andre;24;Saldanha;SAL
+56;Jamison Rudy Van Brewer;Brewer;18;Pinheiros;PIN
+57;André Luiz Bresolin Góes;André Goes;54;Mogi;MOG
+58;Alexandre Henrique Santos Pinheiro;Xande;16;Minas;MIN
+59;Manuil Egídio Leal De Souza;Manuil;21;Espírito Santo;ESB
+60;Robson Coimbra Vesper;Robson;21;Espírito Santo;ESB
+62;Tiago Valentim de Lima;Tiagão;268;Joinville / AABJ;JLE
+63;Johnnie Nascimento Silva Reis;Johnnie;21;Espírito Santo;ESB
+64;James Clarence Parker;Jay Parker;21;Espírito Santo;ESB
+65;Bruno Lira Barbosa da Silva;Bruno;21;Espírito Santo;ESB
+66;Magen Pharez McNeil;McNeil;21;Espírito Santo;ESB
+68;Rodrigo Alves Maistro;Biro;130;Campo Mourão;CMO
+70;Jefferson de Souza Sobral;J. Sobral;23;L. Sorocabana;LSB
+71;Harper Terry Williams;Williams;14;Franca;FRA
+72;Tramaine Deshaun Stevens;Stevens;21;Espírito Santo;ESB
+75;Rodrigo Pereira Santos Bispo;Rodrigo Bahia;29;Tijuca;TIJ
+78;Guilherme Giovannoni;Giovannoni;279;Corinthians;COR
+80;José Anibal Arantes Limonta Silva;Zezinho;26;Assis;ASS
+81;Anderson Eurípedes Ferreira;Mosso;16;Minas;MIN
+84;Jonh Albert Thomas;Thomas;26;Assis;ASS
+85;André de Souza Silva;Andrezão;282;Brasília;BSB
+86;Guilherme Filipin Alves Pereira;Filipin;54;Mogi;MOG
+91;Hélio Rubens Garcia Filho;Helinho;14;Franca;FRA
+93;Felipe Taddei;Taddei;130;Campo Mourão;CMO
+95;Ricardo Luis Probst;Ricardo Probst;1;Joinville;JOI
+96;Cauê Borges dos Santos;Cauê;267;Botafogo;BOT
+97;Cauê Verzola de Freitas;Cauê;53;Basq. Cearense;CEA
+99;Luis  Fernando de Souza;L. Fernando;18;Pinheiros;PIN
+100;Lucas Daniel Tischer;Tischer;129;Rio Claro;RCB
+101;Thiago Melo;Thiaguinho;18;Pinheiros;PIN
+102;Leonardo Di Pacce Dos Santos;Morro;18;Pinheiros;PIN
+104;Paulo Rogerio Nery;Paulo Nery;278;UNIFACISA;UFC
+105;Jimmy Dreher de Oliveira;Jimmy;14;Franca;FRA
+106;Rodrigo Reis Silva;R. Piru;278;UNIFACISA;UFC
+107;Rafael Ferreira de Sousa;Mineiro;2;Flamengo;FLA
+108;Wanderson Camargo Trigueiro;Wanderson;16;Minas;MIN
+112;Paulo Henrique Rossito;Paulão;26;Assis;ASS
+113;Paulo Fernando Moreira De Castro;Paulão;19;São José;SJO
+114;Aristides Josuel Dos Santos;Josuel;18;Pinheiros;PIN
+117;Renato Lamas Pinto;Renato Lamas;15;Limeira;LIM
+118;Bruno Enrico Mortari;Bruno Mortari;18;Pinheiros;PIN
+119;Cesar Luiz Fabretti Araújo;César;130;Campo Mourão;CMO
+121;Nailson Cunha da Silva;Nailson;25;Londrina;LON
+122;Fernando Martins Alvim;Fernando;87;Macaé Basquete;MAC
+124;Leonardo Quadrado;Léo;25;Londrina;LON
+126;Jose Guilherme Nascimento Haas;Haas;25;Londrina;LON
+127;Charles Darius Clark;Clark;25;Londrina;LON
+130;Rafael Donatti Alves Maia;Maia;17;Paulistano;CAP
+131;Julio Cesar De Toledo;Julio;10;Araraquara;ARA
+133;Chandler Yury Chaves;Chandler;19;São José;SJO
+134;José Roberto Nardi Duarte;Betinho;18;Pinheiros;PIN
+135;Antonie Mathew Stockman;Tony;26;Assis;ASS
+137;Shamell Jermaine Stallworth;Shamell;285;São Paulo Futebol Clube;SAO
+138;Luis Fernando da Silva;Luisinho;23;L. Sorocabana;LSB
+140;Eduardo Mariano de Oliveira;Edu Mariano;222;Vitória;VIT
+145;Renato Carbonari;Renato;13;Bauru;BAU
+146;Guilherme Pereira Deodato;Deodato;16;Minas;MIN
+147;Alexandro da Silva de Oliveira;Alex;53;Basq. Cearense;CEA
+148;Everton Vinicius De Moraes;Everton;13;Bauru;BAU
+149;Fernando Fischer;F. Fischer;53;Basq. Cearense;CEA
+151;Edwandersson Carvalho;Eddy;17;Paulistano;CAP
+152;Hélio Vitor Luiz da Costa Lima;Hélio;19;São José;SJO
+153;Frederico Lima Santos;Fred;210;Caxias do Sul;CAX
+154;Jefferson William Andrade da Silva Antônio;Jefferson;285;São Paulo Futebol Clube;SAO
+155;Luiz Felipe Campos Lemes;Luiz Felipe;23;L. Sorocabana;LSB
+156;André Luiz Chueri da Silva Barbosa;Dedé Barbosa;2;Flamengo;FLA
+157;Vitor Boccardo;Vitor;2;Flamengo;FLA
+158;João Gabriel Abreu Fidélis;João;22;Vitória (ES);VIT
+159;William Fournou Drudi;Drudi;23;L. Sorocabana;LSB
+161;Thiago Perez Pereira da Silva;Perez;16;Minas;MIN
+162;João Vicente Guerra Alves;João;16;Minas;MIN
+163;Jarjuan Stane Smith;Smith;16;Minas;MIN
+164;Cristiano Silva Felício;Felicio;2;Flamengo;FLA
+165;Leandro Da Cruz Silva;Leandro Silva;15;Limeira;LIM
+166;Vinícius Villela Gobor;Vinícius;210;Caxias do Sul;CAX
+167;Rodrigo César Silva;Rodrigo Silva;20;Uberlândia;UBE
+168;Guilherme Santos Hubner;Guilherme;14;Franca;FRA
+169;Jeffries;Jeffries;16;Minas;MIN
+172;Lucas Moura Costa;Lucão;24;Saldanha;SAL
+173;Wanderson De Jesus Jovino;De Jesus;22;Vitória (ES);VIT
+174;Alessandro Magno Rocha Dos Santos;Casé;21;Espírito Santo;ESB
+175;Thiago Farias Mathias Rosa;Mathias;53;Basq. Cearense;CEA
+178;Marcos Vinícius Inácio;Vinicius;53;Basq. Cearense;CEA
+180;Fernando Carneiro Coloneze;Coloneze;52;Palmeiras;PAL
+182;Guilherme Frantz Teichmann;Teichmann;279;Corinthians;COR
+187;Murilo Becker da Rosa;Murilo;285;São Paulo Futebol Clube;SAO
+188;Facundo Luis Sucatzky;Sucatzky;16;Minas;MIN
+189;Raul Togni Neto;Raulzinho;16;Minas;MIN
+190;Chinwuba Uzoma Jeffersom Agba;Jeff;17;Paulistano;CAP
+191;Rafael Paulo De Lara Araújo;Babby;18;Pinheiros;PIN
+192;Larry James Taylor Jr;Larry;13;Bauru;BAU
+193;Marcelo Magalhães Machado;Marcelinho;2;Flamengo;FLA
+197;Eric;Eric;13;Bauru;BAU
+203;Wagner Carvalho França Mattos;Wagner;239;Vasco da Gama;VAS
+209;Marcio Borges;Turcão;14;Franca;FRA
+210;Paulo Heitor Boracini;Paulinho;267;Botafogo;BOT
+212;Daniel Campos Machado da Silva;Kaçamba;24;Saldanha;SAL
+213;Leandro Sedenir Buboltz;Buboltz;26;Assis;ASS
+214;Fúlvio Chiantia de Assis;Fúlvio;54;Mogi;MOG
+215;Leonard Raye Mosley;Mosley;24;Saldanha;SAL
+216;Renan Santos Lenz;Renan;285;São Paulo Futebol Clube;SAO
+227;Daniel Hernan Hure;Hure;17;Paulistano;CAP
+232;Rodrigo de Camargo Sant´anna;Rato;25;Londrina;LON
+241;André Luiz Brugger De Mello Rodrigues;André;17;Paulistano;CAP
+263;Ricardo Junqueira Giannecchini;Ricardo;26;Assis;ASS
+267;Eduardo Magalhães Machado;Duda;19;São José;SJO
+268;Marcellus Sarmento Câmara da Silva;Marcellus;239;Vasco da Gama;VAS
+271;Thomas Lutke Gehrke;Gehrke;54;Mogi;MOG
+273;Luiz Felipe Elizeu Mendes Ribeiro;Felipe;53;Basq. Cearense;CEA
+275;Arnaldo de Souza Moreira Filho;Arnaldinho;267;Botafogo;BOT
+277;Rafael Carlos Stabile Silva;Rafa Stabile;210;Caxias do Sul;CAX
+278;Diego Dos Santos Augusto;Diego;10;Araraquara;ARA
+284;Alírio Alves de Souza;Alírio;3;Brasília Antigo;BRA
+285;João Victor Chaves Ramalho;João Victor;1;Joinville;JOI
+286;Eduardo Augusto Reis Baeta;Feliz;26;Assis;ASS
+287;Alfredo Luiz Perandini;Alfredo;23;L. Sorocabana;LSB
+288;Fernando Ferreira Dos Reis;Fernando Reis;21;Espírito Santo;ESB
+292;Otavio Augusto Troyano De Castro;Otávio;16;Minas;MIN
+294;Flavio Aurélio Dos Santos Soares;Espiga;1;Joinville;JOI
+295;Guilherme Barros Da Luz;Guilherme Luz;14;Franca;FRA
+299;Daniel Nascimento Costa Souza;Daniel Filé;19;São José;SJO
+304;Icaro Parisotto;Icaro;20;Uberlândia;UBE
+308;Thiago Francisco Labbate;Labbate;13;Bauru;BAU
+309;Fabricio Russo de Oliveira;Fabricio;54;Mogi;MOG
+310;Gustavo Santos Pereira Lima;Gustavinho;279;Corinthians;COR
+311;Daniel Andreev Conti;Daniel Conti;23;L. Sorocabana;LSB
+315;Eric Arthur Romualdo;Tatu;129;Rio Claro;RCB
+318;Luis Fernando Pascotti;Luis Fernando;15;Limeira;LIM
+320;Andre Luiz Marques Ferreira Dos Santos;Mudo;52;Palmeiras;PAL
+321;Mateus Nascimento Siqueira Dos Santos;Mateus;19;São José;SJO
+324;Bruno Irigoyen;Bruno;210;Caxias do Sul;CAX
+325;Omar Kennedy Bertolin Pereira;Omar;130;Campo Mourão;CMO
+326;Thomaz de Moura Melazzo;T. Melazzo;17;Paulistano;CAP
+327;Arthur Henrique Stela Bernardi;Arthur;17;Paulistano;CAP
+329;Rodrigo Stefanelli Martins;Rodrigo;17;Paulistano;CAP
+334;Rafael De Souza Fusco;Fusco;55;Suzano;SUZ
+341;Guilherme Schneider;Schneider;19;São José;SJO
+342;Joel Gabriel Muñoz Castillo;Muñoz;23;L. Sorocabana;LSB
+348;Bruno Vieira da Cruz Langsdorff;Bruninho;239;Vasco da Gama;VAS
+349;Charles Márcio Lopes E Silva;Charles;15;Limeira;LIM
+351;André Luiz Quirino Pereira;A. Bambu;268;Joinville / AABJ;JLE
+352;Anderson Jose De Oliveira;Anderson Tigrão;19;São José;SJO
+355;Daniel Maurice Spillers;Spillers;14;Franca;FRA
+357;Luciano Silva Jardim Starling;Luciano Starling;16;Minas;MIN
+358;Fransérgio Gilberto Marques;Fransérgio;17;Paulistano;CAP
+360;Pedro César Teruel Lima;Pedro;129;Rio Claro;RCB
+363;Luis Guilherme Dos Santos;Robinho;19;São José;SJO
+365;Ronald Ricardo Ramon Guerreiro;Ramon;2;Flamengo;FLA
+366;Welington Reginaldo dos Santos;Nezinho;282;Brasília;BSB
+367;Marcus Vinícius Vieira de Sousa;Marquinhos;2;Flamengo;FLA
+368;Eduardo Farhat Caviglia;Edu Caviglia;54;Mogi;MOG
+369;Erick Rodrigues Camilo;Erick;87;Macaé Basquete;MAC
+370;Arthur José da Luz Casimiro;Arthur;18;Pinheiros;PIN
+380;Amiel Erick Vega Morejon;Amiel14;22;Vitória (ES);VIT
+381;Davi Rossetto de Oliveira Athayde;Davi;16;Minas;MIN
+383;Maicon Bento Do Nascimento;Maicon;21;Espírito Santo;ESB
+384;Leandro Cruvinel Miranda;Leandro ;20;Uberlândia;UBE
+386;Hátila de Souza Passos;Hátila Passos;20;Uberlândia;UBE
+389;Renato Scholz da Silva;Renato;13;Bauru;BAU
+390;Luciano Ferreira de Souza Junior;Matão;26;Assis;ASS
+392;Durelle Lamonte Brown;Durelle Brown;15;Limeira;LIM
+393;Michel Ferreira do Nascimento;Michel;16;Minas;MIN
+394;Luis Felipe Gruber;Gruber;54;Mogi;MOG
+395;Douglas Angelo Nunes;Douglas Nunes;278;UNIFACISA;UFC
+396;Fábio Santos de Oliveira;Fábio;96;Goiânia;GOI
+399;Átila Sacramento dos Santos;Dos Santos;267;Botafogo;BOT
+400;Gutemberg Pereira de Souza;Guto;210;Caxias do Sul;CAX
+402;Max Gerhard Vater Neto;Max;2;Flamengo;FLA
+404;Daniel Machado de Barros Castellar;Alemão;130;Campo Mourão;CMO
+412;Matheus Dalla Barba;Matheus Dalla;19;São José;SJO
+416;Dusan Radivojevic;Dusan;21;Espírito Santo;ESB
+417;Maurice Levell Riddick;Riddick;54;Mogi;MOG
+418;Robert Earl Owens II;Owens;21;Espírito Santo;ESB
+419;Raphael Mancel da Silva;Rafu;22;Vitória (ES);VIT
+420;Henrique Macia Alves da Cruz;Pilar;239;Vasco da Gama;VAS
+422;Marcelo Deschamps Rabelo Ruediger;Marcelão;282;Brasília;BSB
+423;Juan Pablo Figueroa;Figueroa;129;Rio Claro;RCB
+424;Robby Stephen Collum;Collum;16;Minas;MIN
+425;Robert Andrew Day;Robert Day;13;Bauru;BAU
+426;Evander Cesar Pereira;Evander;54;Mogi;MOG
+427;Lucas Cipolini Alves;Cipolini;14;Franca;FRA
+428;Frederico Duarte Brito dos Santos;Fred Duarte;2;Flamengo;FLA
+431;Ricardo Taboas de Bem;De Bem;87;Macaé Basquete;MAC
+433;Elio Corazza Neto;Elinho;14;Franca;FRA
+434;Lucas Pinheiro Taets;Taets;21;Espírito Santo;ESB
+436;Brett Larry Winkelman;Winkelman;16;Minas;MIN
+437;Ronald Rudson Rodrigues dos Reis;Ronald;282;Brasília;BSB
+440;David Boyd Teague III;Teague;2;Flamengo;FLA
+441;Deryk Evandro Ramos;Deryk;2;Flamengo;FLA
+442;Joseph Delano Shipp Iii;Shipp;19;São José;SJO
+444;Alex Donizete Passilongo;Alex Passilongo;55;Suzano;SUZ
+445;Márcio da Silva Dornelles;Márcio;19;São José;SJO
+446;Rogério Klafke;Rogério;53;Basq. Cearense;CEA
+447;André Stefanelli Martins;Dedé;19;São José;SJO
+448;Lucas Fernandes Mariano;Lucas;267;Botafogo;BOT
+449;Fernando Feres Penna;F. Penna;129;Rio Claro;RCB
+451;Lucas Miguel Avelino;Lucas;130;Campo Mourão;CMO
+475;Bernard Gregory Robinson Jr;Robinson Jr;53;Basq. Cearense;CEA
+476;Pedro Ignacio Calderon;Calderon;26;Assis;ASS
+477;Marques Demtruis Lewis;Lewis;14;Franca;FRA
+478;Ricardo Fischer;Fischer;279;Corinthians;COR
+480;Valter Apolinario da Silva;Valtinho;13;Bauru;BAU
+481;Alex Ribeiro Garcia;Alex;16;Minas;MIN
+482;Carlos Alexandre Rodrigues do Nascimento;Olivinha;2;Flamengo;FLA
+483;Vitor Alves Benite;Benite;2;Flamengo;FLA
+484;Bruno Pires Fiorotto;B. Fiorotto;282;Brasília;BSB
+485;Gege;Gege;2;Flamengo;FLA
+530;George Frederico Torres Homem Chaia;Gegê;284;Pato Basquete;PAT
+533;Adyb Natan Milhomem Fernandes;Adyb;16;Minas;MIN
+536;Luis Otavio da Silva Vieira;Chupeta;23;L. Sorocabana;LSB
+537;Diego Marques Resende;Diego;2;Flamengo;FLA
+539;Márcio de Mattos Junior;Pitico;16;Minas;MIN
+555;Leonardo Simões Meindl;Léo Meindl;285;São Paulo Futebol Clube;SAO
+558;Antonio Elpidio Ferreira Junior;Antonio;278;UNIFACISA;UFC
+562;Radames Diorgio da Silva Santos;Radamés;13;Bauru;BAU
+566;Murilo Noceti Veloso;Murilo;87;Macaé Basquete;MAC
+567;Pedro Henrique Cavalin de Macedo;PH Macedo;16;Minas;MIN
+572;Lucas Lopes Duso;Duso;129;Rio Claro;RCB
+575;Lucas Dias Silva;Lucas Dias;14;Franca;FRA
+577;Vitor Machado Pinto e Silva;Vitor;18;Pinheiros;PIN
+583;Bruno Felipe Vianna dos Santos;B. Felipe;3;Brasília Antigo;BRA
+594;Carlos Eduardo Gonçalves Rosa;Cadu;13;Bauru;BAU
+595;David Wayne Jackson Jr;David Jackson;14;Franca;FRA
+596;Leandro Mateus Barbosa;Leandrinho;16;Minas;MIN
+598;Caio Aparecido da Silveira Torres;C. Torres;18;Pinheiros;PIN
+600;Feliciano Perez Neto;Feliciano;53;Basq. Cearense;CEA
+610;Luan Pereira Xavier;Luan;20;Uberlândia;UBE
+612;Durval Alves Prado Cunha;Durval;1;Joinville;JOI
+626;Raphael Gomes Figueiredo;Raphael;23;L. Sorocabana;LSB
+627;José Victor Ferreira Jerônimo;Jerônimo;268;Joinville / AABJ;JLE
+629;Maxwell Dias Ribeiro;Maxwell;268;Joinville / AABJ;JLE
+645;Kesley De Souza Araújo;Kesley Araújo;13;Bauru;BAU
+646;Eduardo Campos Sommer;Du Sommer;267;Botafogo;BOT
+652;Fernando Rodrigues Ferreira da Silva;Nandão;210;Caxias do Sul;CAX
+665;João Felipe Baiocchi Vianna;João Felipe;55;Suzano;SUZ
+667;Luiz Gustavo Alves Edwards;Luiz;3;Brasília Antigo;BRA
+675;Ricardo Citrangulo Barbosa;Ricardo;18;Pinheiros;PIN
+678;Matheus Marin De Freitas;Matheus Freitas;22;Vitória (ES);VIT
+685;João Paulo de Sousa Lustosa;João Paulo;19;São José;SJO
+698;Diego Gomes;Diego;23;L. Sorocabana;LSB
+702;João Felipe Campos Magalhães de Sá;João de Sá;53;Basq. Cearense;CEA
+711;Henrique Coelho;Coelho;267;Botafogo;BOT
+715;Olintho Pereira Abrão Silva;Dida;20;Uberlândia;UBE
+716;Rafael de Oliveira Silva;Rafael;19;São José;SJO
+748;Vinicius Reis Lima;Vinicius Lima;23;L. Sorocabana;LSB
+753;Vithor Henrique Juliatto;Juliatto;16;Minas;MIN
+758;Wilson Carneiro de Lima Júnior;Wilsinho;16;Minas;MIN
+772;Gorauskas;Gorauskas;14;Franca;FRA
+773;Douglas Grokala Gorauskas;Gorauskas;21;Espírito Santo;ESB
+774;Sylvester Morgan;Morgan;14;Franca;FRA
+781;Rafael Mihossi da Silva;Taqua;17;Paulistano;CAP
+782;Leonardo Klassmann Waszkiewicz;Leonardo;16;Minas;MIN
+786;Diego Santana Conceição;Diego;267;Botafogo;BOT
+789;Rafael Diogo da Silva;Rafinha;267;Botafogo;BOT
+791;Pedro Pucci de Melo Rodrigues;Pedro;26;Assis;ASS
+792;Roberto Dias Ferreira;Roberto;267;Botafogo;BOT
+794;Isaac Rafael Gonçalves;Isaac;18;Pinheiros;PIN
+796;Andre Bennett Laws;Laws;19;São José;SJO
+797;Kenny Montrell Dawkins;Dawkins;18;Pinheiros;PIN
+801;Ralfi Silva Ansaloni;Ansaloni;129;Rio Claro;RCB
+803;Rafael Fernandes Castellon;Castellon;23;L. Sorocabana;LSB
+813;Edward Richard Basden;Basden;14;Franca;FRA
+816;Luiz Otavio Guimarães Schwartzman;Mingau;2;Flamengo;FLA
+818;Humberto Luiz Gomes da Silva;Humberto;279;Corinthians;COR
+820;Moisés Barbosa de Lima Silva;Moisés;16;Minas;MIN
+821;Vitor Michels Salvador;Salvador;3;Brasília Antigo;BRA
+823;Leonardo Demétrio;Demétrio;2;Flamengo;FLA
+824;Alvaro Calvo Masa;Calvo;222;Vitória;VIT
+825;Mark Antonio Borders;Mark Borders;16;Minas;MIN
+826;Guillermo Alejandro Araujo Cappello;Araujo;53;Basq. Cearense;CEA
+827;Alex da Silva Marques;Alex Marques;23;L. Sorocabana;LSB
+828;Daniel Almiro Zillmer;Gaúcho;239;Vasco da Gama;VAS
+829;Ismar do Vale Neto;Ismar;3;Brasília Antigo;BRA
+839;Jordan Burger;Jordan;268;Joinville / AABJ;JLE
+841;Tobias Marramarco Lovato;Tobias;210;Caxias do Sul;CAX
+845;Alexandre Paranhos de Souza;Paranhos;54;Mogi;MOG
+848;Adriano de Abreu  Machado;Adriano;23;L. Sorocabana;LSB
+852;Sanlley Borges de Freitas;Sanlley;22;Vitória (ES);VIT
+853;Thad Kojo Mensah;Kojo;222;Vitória;VIT
+857;Rashad Jamal Bishop;Bishop;29;Tijuca;TIJ
+858;Atílio Leonardo Gomes de Mello;Atílio ;130;Campo Mourão;CMO
+859;Steven Anthony Toyloy;Toyloy;14;Franca;FRA
+861;Fernando Santos de Jesus;Bala;3;Brasília Antigo;BRA
+862;Christopher Xavier Hayes;Hayes;239;Vasco da Gama;VAS
+892;Guillermo Federico Kammerichs;Kammerichs;2;Flamengo;FLA
+933;Fernando Andres Calvi;Fer Calvi;54;Mogi;MOG
+948;Caio Roberto Ranches de Souza;Caio;129;Rio Claro;RCB
+953;Lucas Henrique Martins dos Santos;Lucas Santos;54;Mogi;MOG
+954;Éder Borges de Araújo;Éder Araújo;21;Espírito Santo;ESB
+958;Pedro Luiz Patekoski Moraes;Patekoski;54;Mogi;MOG
+967;Victor Daniel Chueke Pureza;Pureza;3;Brasília Antigo;BRA
+971;Rafael Silva Gomes;Rafael Silva;20;Uberlândia;UBE
+972;Lucas Marciel Rosa de Faria ;Lucas Marciel;14;Franca;FRA
+973;Deandre Coleman;Coleman;13;Bauru;BAU
+974;Luis Enrique de Moraes Porto;Luis Enrique;53;Basq. Cearense;CEA
+975;Rômulo Vieira de Oliveira Junior;Rômulo;53;Basq. Cearense;CEA
+976;Radovan Dragovic;Dragovic;53;Basq. Cearense;CEA
+977;Thasso Herbert Felix da Fonseca;Betinho;53;Basq. Cearense;CEA
+978;Douglas Corrêa dos Santos;Douglas;267;Botafogo;BOT
+979;Jefferson Froehlich Socas;J. Socas;268;Joinville / AABJ;JLE
+980;Luis Felipe Ricci Maia;Felipe;14;Franca;FRA
+981;Ricardo Morandi Zanini;Zanini;20;Uberlândia;UBE
+982;Douglas Tuchtenhagen Kurtz;Kurtz;285;São Paulo Futebol Clube;SAO
+984;Romário Junio de Oliveira Souza;Romário;130;Campo Mourão;CMO
+986;Vinícius Rodrigo Pinto Teló;Vinicius Teló;20;Uberlândia;UBE
+987;Abner Davi de Novais Moreira;Abner;19;São José;SJO
+990;Gabriel Henrique Meneghetti Jambas;Jambas;15;Limeira;LIM
+991;Maurício Fedrizzi Ferronato;Maurício;210;Caxias do Sul;CAX
+994;Luan Quadro Jacon Ziani;Luan;15;Limeira;LIM
+995;Omar Andrew Carter;Carter;15;Limeira;LIM
+996;Lucas Henrique Moreira;Lucas M.;15;Limeira;LIM
+998;Matheus Henrique Pereira;Matheus P.;16;Minas;MIN
+1001;Jermaine Darnell Beal;Beal;16;Minas;MIN
+1002;Danilo Fuzaro Siqueira;Fuzaro;54;Mogi;MOG
+1005;Ricardo Andreotti Bodra;Andreotti;17;Paulistano;CAP
+1006;Gemerson da Silva Barbosa;Gemerson;278;UNIFACISA;UFC
+1007;Vinicius de Oliveira Cornélio Pastor;Pastor;129;Rio Claro;RCB
+1008;Rodrigo Alves de Souza;Rod;52;Palmeiras;PAL
+1009;Fred Peete;Peete;52;Palmeiras;PAL
+1010;Gustavo Scaglia de Paula;Scaglia;18;Pinheiros;PIN
+1011;Caleb Franklin Brown;Caleb Brown;87;Macaé Basquete;MAC
+1013;Arthur Pecos Fernandes da Silva;Pecos;279;Corinthians;COR
+1014;Gustavo Lino;Lino;52;Palmeiras;PAL
+1016;Tyrone Denell Curnell;Tyrone ;16;Minas;MIN
+1017;Antwaine Wiggins;Wiggins;52;Palmeiras;PAL
+1018;Pedro Henrique Wellausen Rava;Pedrinho Rava;282;Brasília;BSB
+1021;Joseph Troy Smith;Joe Smith;18;Pinheiros;PIN
+1022;Gabriel Lourenço Tenório;Gabriel;19;São José;SJO
+1023;Rafael Moreira da Silva;Rafa Moreira;282;Brasília;BSB
+1024;André Romanato Pizzolato;Dedé;2;Flamengo;FLA
+1025;André Renato Candido;Andrezinho;55;Suzano;SUZ
+1026;Igor Guimarães Tracci;Igor Tracci;55;Suzano;SUZ
+1027;Cleiton Luiz Sebastião;Sebastião;55;Suzano;SUZ
+1028;Lucas Cunha Miranda;Lucas Miranda;55;Suzano;SUZ
+1029;Rafael Quintiliano dos Santos;Quintiliano;55;Suzano;SUZ
+1033;Diego Dias Silva;Diego;17;Paulistano;CAP
+1035;Higor Simas Pereira Lima;Higor;15;Limeira;LIM
+1036;Wesley Henrique Gonçalves Andrade;Wesley;130;Campo Mourão;CMO
+1037;Lamar Demond Roberson;Roberson;29;Tijuca;TIJ
+1038;Renan Michel Leichtweis;Renan;222;Vitória;VIT
+1039;Felippe Augusto Simões da Silva Carvalho;Felippe;96;Goiânia;GOI
+1040;Allens Jemmott Duquese;Jemmott;21;Espírito Santo;ESB
+1041;Benzor Simmons;Simmons;87;Macaé Basquete;MAC
+1042;Vitor Christ de Miranda;Vitor;21;Espírito Santo;ESB
+1044;Wellington da Cruz Alvarenga;Wellington;21;Espírito Santo;ESB
+1047;Desmond Holloway;Holloway;285;São Paulo Futebol Clube;SAO
+1048;Brandon Kierre McGee;McGee;23;L. Sorocabana;LSB
+1049;Luciano de Abreu Machado;Luciano;23;L. Sorocabana;LSB
+1050;Vitor Pantoja de Britto;Vitor Pantoja;3;Brasília Antigo;BRA
+1051;Ryan Cornell Bacon ;Bacon;54;Mogi;MOG
+1052;Sidnei de Santana Lima;Sidão;54;Mogi;MOG
+1053;João Pedro Borrego Siqueira Martins;João Pedro;222;Vitória;VIT
+1054;Lucas Teodoro de Souza Colimerio;Colimerio;268;Joinville / AABJ;JLE
+1058;Jefferson Campos;Jefferson;129;Rio Claro;RCB
+1059;Ricardo Santos Gaspar;Gaspar;21;Espírito Santo;ESB
+1060;Mateus Poltronieri Pereira;Mateus;21;Espírito Santo;ESB
+1061;Wesley Alexandre Sena da Silva;Wesley;267;Botafogo;BOT
+1062;Nilson Goulart Santana ;Nilson;222;Vitória;VIT
+1063;Jason David Detrick ;Detrick;13;Bauru;BAU
+1072;Felipe Lima Silva;Felipe Lima;29;Tijuca;TIJ
+1075;David Augusto Santos Brito;David;29;Tijuca;TIJ
+1091;Paulo Antônio da Costa Lourenço;Paulo;284;Pato Basquete;PAT
+1124;Marcos da Silva;Marcos;23;L. Sorocabana;LSB
+1140;Guilherme Augusto Arantes Francisco;Guilherme;15;Limeira;LIM
+1147;Leonardo Jacon Oliveira;Lelê;129;Rio Claro;RCB
+1176;Lourival Peres Junior;Loroh;16;Minas;MIN
+1190;Daniel Pinho Severo;Pinho;19;São José;SJO
+1191;Leandro Ferreira Cabral;Leandrão;18;Pinheiros;PIN
+1223;Henrique Bramorski Medeiros;Henrique;1;Joinville;JOI
+1224;João Pedro de Moraes Demétrio;João Pedro;54;Mogi;MOG
+1225;Everson Aparecido Rodrigues;Verson;23;L. Sorocabana;LSB
+1226;Paulo Sérgio Prestes;Prestes;54;Mogi;MOG
+1227;Rashaun Durrel Mc Lemore;Rashaun;53;Basq. Cearense;CEA
+1228;Arthur Meireles Vieira de Souza;Arthur;29;Tijuca;TIJ
+1229;Everson Alexandre Resende Lacerda;Lacerda;23;L. Sorocabana;LSB
+1230;Bruno Zanotti Cavazzoni Barrail;Zanotti;2;Flamengo;FLA
+1232;Paul James Crosby;Crosby;16;Minas;MIN
+1233;André Tadeu de Oliveira Ferros;Ferros;23;L. Sorocabana;LSB
+1234;Thomas Antonio Poles;Thomas;17;Paulistano;CAP
+1235;Leonardo Joanes Eltink;L. Eltink;19;São José;SJO
+1254;Juan Manuel Torres;Torres;87;Macaé Basquete;MAC
+1259;William Lucas Evangelista;Will;87;Macaé Basquete;MAC
+1260;Leonardo dos S. Crucillo;Crucillo;87;Macaé Basquete;MAC
+1262;Pablo Tavares Sueiro Vilela;Pablo;87;Macaé Basquete;MAC
+1263;João Phylippe Belmiro Bernardi;João;3;Brasília Antigo;BRA
+1264;Lucas de Oliveira Rodrigues;Lucas;87;Macaé Basquete;MAC
+1266;Pablo Anibal Espinoza;Espinoza;87;Macaé Basquete;MAC
+1282;João Victor Torres Furtado Lima;Johnny;3;Brasília Antigo;BRA
+1287;Rômulo Gusmão Costa;Rômulo;3;Brasília Antigo;BRA
+1298;José Mauro Barrozo Junior;J. Mauro;54;Mogi;MOG
+1300;Felipe Rech;Rech;210;Caxias do Sul;CAX
+1309;Victor André Camilo da Silva;Vitão;17;Paulistano;CAP
+1310;Leonardo Willians Fernandes dos Santos;Léo W.;53;Basq. Cearense;CEA
+1317;Pedro Paulo Moreira da Silva Rogerio Carlos;Pedro Paulo;17;Paulistano;CAP
+1322;Luis Enrique  de Moraes Porto;Luis Enrique;53;Basq. Cearense;CEA
+1325;Victor Chastinet Aragão de Gusmão;Victor;53;Basq. Cearense;CEA
+1348;Matheus Coutinho Custódio Da Silva;Coutinho;3;Brasília Antigo;BRA
+1357;Douglas Sales de Souza;Douglas;52;Palmeiras;PAL
+11112;Victor de Souza Correia;Victinho;17;Paulistano;CAP
+11113;Gustavo Rabelo Cortes;Gustavo;16;Minas;MIN
+11116;Nicolas Antunes de Souza;Nick;13;Bauru;BAU
+11118;Eduardo Henrique Urbano De Poli;Eduardo;13;Bauru;BAU
+11119;Lucas Henrique Garcia;Biloca;268;Joinville / AABJ;JLE
+11138;Alexey Thiago Pereira Borges;Alexey;54;Mogi;MOG
+11140;Eduardo Oliveira Marques;Dudú;14;Franca;FRA
+11181;Gustavo Marques Silveira;Gustavo;21;Espírito Santo;ESB
+11201;Romário Gabriel Santos Veber;Veber;1;Joinville;JOI
+11214;Henrique Cláudio de Oliveira;Henrique;87;Macaé Basquete;MAC
+11230;Pedro Vitor Lopes Adão;Pedro;19;São José;SJO
+11233;Matheus Lopes Guirro;Lopes;19;São José;SJO
+11242;Jamaal Thaddius Smith;Jamaal;267;Botafogo;BOT
+11243;Emilio Taboada;Taboada;20;Uberlândia;UBE
+11245;André Luiz Coimbra Reis Souza Costa;Coimbra;284;Pato Basquete;PAT
+11259;Rafael Leite Malfi;Rafa;17;Paulistano;CAP
+11261;Jonathan Peter Guimarães Tavernari;Jonathan;18;Pinheiros;PIN
+11262;Bruno Correa Fernandes Cabloco;Bruno Caboclo;18;Pinheiros;PIN
+11279;Nicolás Laprovittola;Laprovittola;2;Flamengo;FLA
+11280;Fernando Henrique Stafleu Andrade;Stafleu;2;Flamengo;FLA
+11281;Jerome Dieu Donne Meyinsse;Meyinsse;2;Flamengo;FLA
+11282;Martín Osimani;Osimani;3;Brasília Antigo;BRA
+11284;Marcus Goree;Goree;3;Brasília Antigo;BRA
+11287;Sualisson Tavares da Silva;Sualisson;53;Basq. Cearense;CEA
+11288;Victor Matheus Leal Velozo;Leal;53;Basq. Cearense;CEA
+11289;Raphael Sousa;Sousa;13;Bauru;BAU
+11290;Fabian Ramirez Barrios;Barrios;13;Bauru;BAU
+11291;Josimar Abdiel Ayarza Tous;Ayarza;13;Bauru;BAU
+11294;Rafael Mauro Grandella;Rafael;21;Espírito Santo;ESB
+11296;Daniel Pereira Lorio;Danielzinho;16;Minas;MIN
+11297;Leonardo Huguenin de Medeiros;Léo;2;Flamengo;FLA
+11298;Alef César Augusto Alves Pereira;Alef;130;Campo Mourão;CMO
+11299;André Mellim Seixas Silva;André M.;19;São José;SJO
+11300;Bruno Borges Dos Santos;Bruno;14;Franca;FRA
+11301;Maique Tavares de Oliveira;Maique;17;Paulistano;CAP
+11303;Hermerson Gustavo Da Silva Figueiredo;Gustavo;96;Goiânia;GOI
+11304;Thiago César Carneiro Marcello;Thiaguinho;129;Rio Claro;RCB
+11305;Reinaldo de Paula Moreni Junior;Junior;23;L. Sorocabana;LSB
+11306;Luiz Paulo Cecílio dos Santos;Lupa;19;São José;SJO
+11307;Elivelton dos Santos Soares;Elivelton;23;L. Sorocabana;LSB
+11308;Nafis Graddie Ricks;Ricks;23;L. Sorocabana;LSB
+11311;Thiago Teixeira Basílio;Thiaguinho;87;Macaé Basquete;MAC
+11312;Adriano Alves Júnior;Adriano Big;14;Franca;FRA
+11313;Rafael Cintra Ribeiro;Cintra;87;Macaé Basquete;MAC
+11314;Everton Gomes da Silva Oliveira;Tom;129;Rio Claro;RCB
+11315;Vithor Eli Lersch da Silva;Vithinho;239;Vasco da Gama;VAS
+11316;Marcus Vinicius Urban Toledo Medina;Toledo;18;Pinheiros;PIN
+11317;Lucas Farina de Lima;Lucas;16;Minas;MIN
+11318;Igor Dal Col Tormar;Igor;52;Palmeiras;PAL
+11319;Pedro Henrique Santos de Souza;Pedrão;17;Paulistano;CAP
+11320;Wesley Alves da Silva;Mogi;267;Botafogo;BOT
+11321;Lucas Moraes dos Santos;Lucão;129;Rio Claro;RCB
+11322;Wesley de Castro Ferreira;Wesley;279;Corinthians;COR
+11323;George Lucas Alves de Paula;Georginho;285;São Paulo Futebol Clube;SAO
+11325;Juan Henrique de Souza Balbino;Juan;19;São José;SJO
+11326;Rodrigo Maiorino Degiovani;Rodrigo;19;São José;SJO
+11327;Marciel da Silva Santos;M. Pajé;19;São José;SJO
+11328;Luiz Gustavo Basílio Timotheo de Oliveira;Gustavo;284;Pato Basquete;PAT
+11329;Edward Richard Nelson;Nelson;19;São José;SJO
+11330;Junio Duval dos Santos;Duval;18;Pinheiros;PIN
+11331;Rafael Augusto Soleira;R. Soleira;129;Rio Claro;RCB
+11332;Ted Marcos Bento Simões;Ted;23;L. Sorocabana;LSB
+11333;Robert Brandon Brown;Brown;129;Rio Claro;RCB
+11334;Nicolas Keyon Williams;Nick;53;Basq. Cearense;CEA
+11335;Devon Michael Hardin;Devon;17;Paulistano;CAP
+11337;Rodrigo Alves Nascimento;Alves;18;Pinheiros;PIN
+11338;Victor Demétrio;Dimi;18;Pinheiros;PIN
+11339;Gabriel Henrique Manjialardo de Oliveira;Gabriel;278;UNIFACISA;UFC
+11342;Curry Jermane Collins;Collins;21;Espírito Santo;ESB
+11343;Matheus Luxinger Gomes;Luxinger;21;Espírito Santo;ESB
+11344;Ned Cox IV;Cox;23;L. Sorocabana;LSB
+11345;Tony Fitzgerald White Jr.;White Jr.;54;Mogi;MOG
+11346;Emmanuel Amauris Quezada;Quezada;19;São José;SJO
+11347;Afam James Muojeke;Muojeke;21;Espírito Santo;ESB
+11348;Murilo Henriquy Cunha da Silva;Murilo;284;Pato Basquete;PAT
+11349;Carlos Eduardo Soledade da Costa;Cadu;52;Palmeiras;PAL
+11350;Vitor Egon Mijas;Egon;52;Palmeiras;PAL
+11351;Gregory Ogden Smith II;Smith;23;L. Sorocabana;LSB
+11352;Pedro;Pedro Henrique B. da Silva;23;L. Sorocabana;LSB
+11353;Brian Henry Laing;Laing;16;Minas;MIN
+11356;Jason Anthony Smith;Jason Smith;222;Vitória;VIT
+11357;Rashad Dion McCants;McCants;20;Uberlândia;UBE
+11358;Dartona Lavelle Washam Jr;Washam;2;Flamengo;FLA
+11359;Otis Michael George;George;87;Macaé Basquete;MAC
+11362;Felipe André Vezaro;Vezaro;279;Corinthians;COR
+11363;Cicero da Silva Gonzaga;Cicero;129;Rio Claro;RCB
+11364;Maximiliano Ariel Stanic;Maxi Stanic;52;Palmeiras;PAL
+11367;Alex Robinson Doria;Alex;54;Mogi;MOG
+11371;Leandro da Cruz Silva de Azevedo;Leandro;284;Pato Basquete;PAT
+11375;Marcos Egídio Leal de Souza;Marcão;130;Campo Mourão;CMO
+11380;Vinicius Dione dos Santos Sossai;Vinicius;129;Rio Claro;RCB
+11381;Guilherme Fermino;Fermino;129;Rio Claro;RCB
+11382;Leonardo Degasperi Pegaia;Léo;129;Rio Claro;RCB
+11387;Patrick Luis de Ana Vieira;Vieira;54;Mogi;MOG
+11392;Rinaldo José Alves Mafra;Mafra;23;L. Sorocabana;LSB
+11398;Israel Jacome de Lima;Israel;53;Basq. Cearense;CEA
+11406;Matheus Silva Fontes;Matheus;87;Macaé Basquete;MAC
+11422;Victor  de Carvalho Silveira;Victor;3;Brasília Antigo;BRA
+11423;Iago Lima Araújo;Iago;3;Brasília Antigo;BRA
+11426;Diego Ribeiro dos Santos;Dieguinho;268;Joinville / AABJ;JLE
+11430;Pedro Mendonça Ferreira da Silva;Pedro;282;Brasília;BSB
+11443;Luis Fernando Lopes Sacco;Gemadinha;278;UNIFACISA;UFC
+11450;Matheus da Silva Nascimento;Matheuzinho;87;Macaé Basquete;MAC
+11471;Joel Pereira de Souza Júnior;Joel;53;Basq. Cearense;CEA
+11500;Vitor Amorim Sihman;Amorim;2;Flamengo;FLA
+11508;Wilmar Borges Garcia;Pezão;278;UNIFACISA;UFC
+11517;Gustavo Ceccato Ruiz;Guga;54;Mogi;MOG
+11519;Mateus Martins Michael;Mateus;18;Pinheiros;PIN
+11521;Juliano Armani Monteiro Silva;Armani;53;Basq. Cearense;CEA
+11529;João Felipe Piovesan Amato;João Felipe;2;Flamengo;FLA
+11556;Leonardo Bispo de Souza;Léo Bispo;2;Flamengo;FLA
+11557;Darington ONeal Hobson;Hobson;3;Brasília Antigo;BRA
+11571;João Vitor França dos Santos;João Vitor;278;UNIFACISA;UFC
+11572;Alexei Gustavo Patrício;Alexei;16;Minas;MIN
+11581;William Weihermann;Weihermann;268;Joinville / AABJ;JLE
+11582;Daniel Macedo Soares;Daniel;87;Macaé Basquete;MAC
+11586;Mateus Alex Santana;Mateus A.;87;Macaé Basquete;MAC
+11611;Leonardo de Souza Branquinho;Branquinho;23;L. Sorocabana;LSB
+11625;Gabriel Fernandes de Albuquerque;Gabriel;53;Basq. Cearense;CEA
+11628;Luis Alberto Almeida Junior;Junior;14;Franca;FRA
+11630;Felipe Sousa Côrtes;Felipe;53;Basq. Cearense;CEA
+11657;Rafael Hettsheimeir;Hettsheimeir;14;Franca;FRA
+11658;Marcos Daniel Mata;Mata;14;Franca;FRA
+11659;Carlos de Cobos Ortega;Cobos;14;Franca;FRA
+11660;Walter Herrmann Heinrich;Herrmann;2;Flamengo;FLA
+11661;Tarvin Raphael Gaines;Gaines;23;L. Sorocabana;LSB
+11662;Danillo Aledes de Campos;Danillo;23;L. Sorocabana;LSB
+11663;Gerson do Espírito Santo Júnior;Gerson;129;Rio Claro;RCB
+11664;André Fonseca Marone;Marone;52;Palmeiras;PAL
+11665;Ítalo Cicotti;Ítalo;52;Palmeiras;PAL
+11666;Carlos Nicolás Gianella;Gianella;52;Palmeiras;PAL
+11667;Jimmy Devon Baxter;J. Baxter;19;São José;SJO
+11669;Vinicius da Costa Sabino Pessoa;Vinicius;19;São José;SJO
+11671;José Lucas de Castro Lima;Lucas;53;Basq. Cearense;CEA
+11672;Rafael Augusto das Neves Lassance Cunha;Lassance;53;Basq. Cearense;CEA
+11673;Fernando Silva Buboltz;Buboltz ;210;Caxias do Sul;CAX
+11675;Christian Mendonça Gomes Panunzio;Panunzio;19;São José;SJO
+11678;Lucas Rosniak;Rosniak;268;Joinville / AABJ;JLE
+11680;Henrique Gama Cerimelli;Henrique;13;Bauru;BAU
+11682;Lucas Gabriel Vezaro;Vezarinho;268;Joinville / AABJ;JLE
+11684;Gabriel Alves Renato;Bié;54;Mogi;MOG
+11691;Guilherme Thailan Lessa;Lessa;54;Mogi;MOG
+11692;Diogo Teixeira Aga;Aguinha;23;L. Sorocabana;LSB
+11693;Ian Curtis Young;Young;87;Macaé Basquete;MAC
+11695;Nicolas Rodrigo Dias Ferraz;Nicolas;129;Rio Claro;RCB
+11699;Igor Avelino;Igor;87;Macaé Basquete;MAC
+11700;Gabriel Jonathan Queiroz Ferreira;Gigante;2;Flamengo;FLA
+11701;Carlos Henrique Miorin Gonçalves;Carlão;129;Rio Claro;RCB
+11702;ONeal Onami Mims;Mims;20;Uberlândia;UBE
+11705;Worrel Oval Glen Clahar;Clahar;23;L. Sorocabana;LSB
+11725;Enzo Cafferata;Cafferata;54;Mogi;MOG
+11726;Matías Nocedal;Nocedal;23;L. Sorocabana;LSB
+11727;Vernon Athelston Goodridge;Goodridge;3;Brasília Antigo;BRA
+11730;Jorge Guilherme Iglesias Junior;Iglesias;2;Flamengo;FLA
+11743;Kyle E. LaMonte;LaMonte;3;Brasília Antigo;BRA
+11745;Igor Alexander Bernardes;Igor;14;Franca;FRA
+11746;Rafael Domingues Marques Martins;Rafael;14;Franca;FRA
+11747;Cassiano Marinho Bueno;Cassiano;285;São Paulo Futebol Clube;SAO
+11750;Fernando Augusto de Oliveira;Fernando;23;L. Sorocabana;LSB
+11752;Tadeu Santos Ferreira;Tadeu;87;Macaé Basquete;MAC
+11757;Gabriel Assunção Dantas Ribeiro;Assunção;222;Vitória;VIT
+11763;Michael Somutochukwu Uchendu;Michael;13;Bauru;BAU
+11764;Guilherme Santos;Gui Santos;282;Brasília;BSB
+11765;Guilherme Bento do Carmo;Gui Bento;282;Brasília;BSB
+11766;Mateus de Oliveira Juzzo;Juzzo;23;L. Sorocabana;LSB
+11767;Felipe Sandoval Ruivo;Ruivo;17;Paulistano;CAP
+11768;João Victor Mamedes Silva;Mamedes;285;São Paulo Futebol Clube;SAO
+11769;Aquiles Novo Ferreira;Aquiles;284;Pato Basquete;PAT
+11770;Lucas Cauê de Almeida Pereira;L. Cauê;18;Pinheiros;PIN
+11771;Danilo Araújo Sena dos Santos;Sena;18;Pinheiros;PIN
+11776;Solano Vieira Triches;Solano;130;Campo Mourão;CMO
+11778;Arthur Henrique Stela Bernardi;Arthur;267;Botafogo;BOT
+11779;Henrique dos Santos Monteiro;Henrique;210;Caxias do Sul;CAX
+11780;Bruno José Macedo Ferreira;Bruno;23;L. Sorocabana;LSB
+11781;Rubem de Moraes Campagnolo;Rubinho;210;Caxias do Sul;CAX
+11783;Rodolfo Cesar Bellato;Dida;210;Caxias do Sul;CAX
+11785;Daniel Grigol Três;Daniel;210;Caxias do Sul;CAX
+11793;Nestor Ferreira Neto;Nestor;129;Rio Claro;RCB
+11795;Jackson Henrique Almeida da Silva;Jackson;267;Botafogo;BOT
+11813;João Pedro Lopes Guirro;Guirro;19;São José;SJO
+11816;Gabriel Borrego Siqueira Martins;Gabriel;19;São José;SJO
+11818;Willians Dias Pereira Junior;Will Jr;54;Mogi;MOG
+11822;Jonathan Knudsen Muller;Jonathan;210;Caxias do Sul;CAX
+11825;Leonardo Crespo Pereira;Léo;14;Franca;FRA
+11828;Lucas Brito de Campos;Brito;13;Bauru;BAU
+11836;Bruno Ribeiro Guedes;Bruno;16;Minas;MIN
+11860;Felipe Araújo Queiros;Queiroz;16;Minas;MIN
+11861;Douglas dos Santos Silva;Douglas Santos;279;Corinthians;COR
+11862;José Carlos dos Santos Junior;Junior;222;Vitória;VIT
+11865;Fabrício da Silva Verrissimo;Fabrício;267;Botafogo;BOT
+11885;Matheus da Silva Pereira Varela;Varela;267;Botafogo;BOT
+11895;Danilo Roberto Marques Penteado;Danilo;285;São Paulo Futebol Clube;SAO
+11897;Dikembe da Silva André;Dikembe;17;Paulistano;CAP
+11911;Nicolas Ronsini Freitas de Almeida;Nicolas Ronsini;278;UNIFACISA;UFC
+11912;Gabriel Mendes da Silva;Mendes;13;Bauru;BAU
+11913;José Carlos Francisco dos Santos;José Carlos;282;Brasília;BSB
+11914;Yago Mateus dos Santos;Yago;17;Paulistano;CAP
+11916;Gabriel Crepaldi Volpato Galvanini;Gabriel Jaú;13;Bauru;BAU
+11919;Thiago Ribeiro de Souza Cruz;Thiago;18;Pinheiros;PIN
+11920;Paulo Augusto Bahia Nunes de Miranda;Paulinho;14;Franca;FRA
+11924;Henrique Ristow Reinert;Henrique;268;Joinville / AABJ;JLE
+11929;Pedro Alcantara Abbade Aguiar Faria;Pedro;2;Flamengo;FLA
+11930;Felipe Braga Alfredo;Braga;222;Vitória;VIT
+11939;Gabriel Picirillo dos Santos;Gabriel;2;Flamengo;FLA
+11947;Walisson Vinicius Guilherme;W. Guilherme;53;Basq. Cearense;CEA
+11952;Rafael Freire Luz;Rafa Luz;14;Franca;FRA
+11954;Corderro L. Bennett;Bennett;18;Pinheiros;PIN
+11955;Jason Michael Robinson;Robinson;2;Flamengo;FLA
+11957;João Paulo Lopes Batista;JP Batista;54;Mogi;MOG
+11958;Gabriel Darin Aguirre;Aguirre;19;São José;SJO
+11959;Taaj Shane Ridley;Ridley;23;L. Sorocabana;LSB
+11960;Christopher Joseph Gradnigo;Gradnigo;130;Campo Mourão;CMO
+11961;Victor Dias Ribeiro;Victor;23;L. Sorocabana;LSB
+11962;Leandro Moraes de Almeida;Leandro;23;L. Sorocabana;LSB
+11964;Stefano Pierotti Alles;Stefano;13;Bauru;BAU
+11965;Diego Vinícius Mendonça de Souza;Diego;222;Vitória;VIT
+11966;Tiago Botelho Alaluia;Tiago;222;Vitória;VIT
+11967;José Jairo Santos Gonçalves Júnior;Jairo;222;Vitória;VIT
+11968;William Patrocínio dos Santos;William;222;Vitória;VIT
+11969;Isaac Carmelo Sosa Carrion;Sosa;16;Minas;MIN
+11970;Dexter Grant Kernich-Drew;Kernich-Drew;16;Minas;MIN
+11971;Gabriel Luiz Echer;Gabriel;210;Caxias do Sul;CAX
+11972;Igor Teixeira Nascimento;Igor;54;Mogi;MOG
+11973;Fabrício Paulino de Melo;Fab Melo;3;Brasília Antigo;BRA
+11975;Scott Rodgers;Rodgers;16;Minas;MIN
+11979;Ricardo Augusto Lento Coelho dos Santos;Ricardinho;239;Vasco da Gama;VAS
+11981;Matheus Araujo Silveira;Matheus S.;16;Minas;MIN
+12003;Damian Dario Palacios;Palacios;239;Vasco da Gama;VAS
+12008;Felipe Machado Silva;Felipin;2;Flamengo;FLA
+12010;Danilo Martins Monteiro;Danilo;282;Brasília;BSB
+12011;Heitor Cesar do Nascimento Silva;Heitor;2;Flamengo;FLA
+12012;Marcos Henrique Louzada Silva;Didi;14;Franca;FRA
+12015;Guilherme Braga Abreu;Guilherme;14;Franca;FRA
+12024;Augusto Cabral Leão;Augusto;284;Pato Basquete;PAT
+12025;Thales Santos Silva;Thales;16;Minas;MIN
+12050;Felipe Franklin Santos;Franklin;54;Mogi;MOG
+12054;Gregory Eduard Brown;Brown;130;Campo Mourão;CMO
+12055;Jordan Emerson Montgomery;Jordan;130;Campo Mourão;CMO
+12056;Douglas Nathan dos Reis;Douglas;210;Caxias do Sul;CAX
+12057;Jonas Giacomin;Jonas;210;Caxias do Sul;CAX
+12058;Keyron Jamier Sheard;Keyron;222;Vitória;VIT
+12059;Victor Pedreira Palma;Vitinho;222;Vitória;VIT
+12060;Darnell Evans;Darnell;23;L. Sorocabana;LSB
+12062;Kendall Lamont Anthony;Anthony;13;Bauru;BAU
+12063;Lewis Bernard Leonard;Leonard;87;Macaé Basquete;MAC
+12064;Carlos César Silva Júnior;Silva Júnior;87;Macaé Basquete;MAC
+12065;Drew James Maynard;Maynard;16;Minas;MIN
+12066;William César Oliveira dos Santos;W. César;130;Campo Mourão;CMO
+12067;Isaac Donnell Thornton;Thornton;284;Pato Basquete;PAT
+12068;Hakeem Atiopa Rollins;Rollins;2;Flamengo;FLA
+12078;Rodrigo Pedreira dos Santos Bispo;R. Bahia;267;Botafogo;BOT
+12079;Erike Silva de Moura Lima;Guapi;267;Botafogo;BOT
+12095;Deonta Michael Stocks;Stocks;239;Vasco da Gama;VAS
+12123;Nicholas Nathaniel Okorie;Okorie;239;Vasco da Gama;VAS
+12124;Matthew Shaw;Shaw;222;Vitória;VIT
+12125;Dontrell Chaquan Brite;Brite;53;Basq. Cearense;CEA
+12127;David Alejandro Cubillan Leon;Cubillan;2;Flamengo;FLA
+12128;Anton Emanuel Cook;Cook;268;Joinville / AABJ;JLE
+12129;Nathan Eli Molony Benjamin;Molony Benjamin;53;Basq. Cearense;CEA
+12130;Malcolm Jaleel Rhett;Rhett;2;Flamengo;FLA
+12131;Evan Tyler Roquemore;Roquemore;17;Paulistano;CAP
+12132;Kyle Alejandro Fuller;Fuller;279;Corinthians;COR
+12133;Cameron Alexander Tatum;Tatum;267;Botafogo;BOT
+12134;Eric Curran Laster;Laster;268;Joinville / AABJ;JLE
+12135;Jamail Le Roy Jones;Jones;130;Campo Mourão;CMO
+12138;Bruno Luiz Soares Freitas;Bruninho;53;Basq. Cearense;CEA
+12147;Pedro Barros Leal Ribeiro Lobo;P. Lobo;53;Basq. Cearense;CEA
+12156;Paulo Henrique Scheuer;Scheuer;284;Pato Basquete;PAT
+12161;João Matheus de Oliveira Camargo;Camargo;2;Flamengo;FLA
+12165;Ruan Michel Marques Miranda;Ruan;2;Flamengo;FLA
+12179;George Junio de Moura Pedro;George;16;Minas;MIN
+12180;Tiago Daniel Dias;Tiago;16;Minas;MIN
+12182;Marcos Henrique Cunha Silva;Marcos;16;Minas;MIN
+12185;Roberto da Rocha Fagundes Filho;Beto;17;Paulistano;CAP
+12186;Daniel da Fonseca Garcia Cassiano;Daniel;19;São José;SJO
+12187;Anderson Barbosa Miranda Santana;Anderson;17;Paulistano;CAP
+12190;Rafael Andrade Bibiano dos Santos;R. Bibiano;284;Pato Basquete;PAT
+12191;Igor Rocha Araujo;Igor;285;São Paulo Futebol Clube;SAO
+12192;Jonatan Gabriel de Oliveira;Jonatan;17;Paulistano;CAP
+12194;Rafael Rachel de Souza Silva;R. Rachel;2;Flamengo;FLA
+12197;Maicon Douglas da Silva Waldemar;Maicon;18;Pinheiros;PIN
+12209;Felipe da Cruz Cardoso;F Cardoso;54;Mogi;MOG
+12218;Lucas Raphael Lacerda Santana;Lucas;54;Mogi;MOG
+12226;Paulo Felipe Silva Teodoro de Souza;Baby;19;São José;SJO
+12239;Eduardo França Elevi;Edu Marília;14;Franca;FRA
+12240;Augusto Alcassa dos Santos Rosa;Augusto;14;Franca;FRA
+12260;Marcelo Roque Conceição Rocha Filho;Marcelo;222;Vitória;VIT
+12261;Luiz Felipe Moreira do Espírito Santo;L. Felipe;239;Vasco da Gama;VAS
+12264;Raphael Luis Feliciano de Souza;Rapha;130;Campo Mourão;CMO
+12268;Lucas Romanzini;Romanzini;210;Caxias do Sul;CAX
+12269;Billy Ray Rush Junior;Rush;16;Minas;MIN
+12272;André Luis dos Santos;André;13;Bauru;BAU
+12273;João Marcos Ramos;João Marcos;13;Bauru;BAU
+12274;Samuel Cezar Ferreira dos Santos;Pará;13;Bauru;BAU
+12276;Rodrigo Italo de Almeida Lima;Robinho;23;L. Sorocabana;LSB
+12277;Kevin Freitas Crescenzi;Crescenzi;13;Bauru;BAU
+12278;Henrique Moreira da Silva Filho;Henrique;23;L. Sorocabana;LSB
+12281;David Ahmad Nesbitt;Nesbitt;279;Corinthians;COR
+12282;Cristopher Lashun Ware;Ware;18;Pinheiros;PIN
+12291;Demarquise Jaquan Johnson;Johnson;19;São José;SJO
+12292;Osvaldas Matulionis;Matulionis;13;Bauru;BAU
+12293;Luis Mendonça Ferreira da Silva;Luis;282;Brasília;BSB
+12294;Lucas Marciel Rosa Faria;Lucas;23;L. Sorocabana;LSB
+12295;Joseph Michael Warren;Warren;210;Caxias do Sul;CAX
+12296;Emiliano Raúl Giano Lanchéz;Giano;130;Campo Mourão;CMO
+12297;Ryan Isaac Rhoomes;Rhoomes;16;Minas;MIN
+12298;Anderson França Varejão;Varejão;2;Flamengo;FLA
+12299;João Gabriel Aguiar de Sá Roriz;J. Gabriel;53;Basq. Cearense;CEA
+12321;Farad Muhammad Allah Cobb;Cobb;16;Minas;MIN
+12322;Nathaniel David Barnes;Barnes;278;UNIFACISA;UFC
+12326;Brandon Rashad Davis;Davis;53;Basq. Cearense;CEA
+12333;Sérgio Sillas Lucas da Conceição;Conceição;19;São José;SJO
+12350;Matheus Weber Barcelos;Matheus Weber;2;Flamengo;FLA
+12353;Franco Nicolas Balbi;Balbi;2;Flamengo;FLA
+12354;Enzo Gabriel Ruiz;Enzo;129;Rio Claro;RCB
+12357;Mauricio Aguiar Barcelona;Aguiar;279;Corinthians;COR
+12358;Che Yasin Bob;Bob;16;Minas;MIN
+12359;Samuel James Daniel;Sam Daniel;16;Minas;MIN
+12361;Dominique Coleman;D. Coleman;17;Paulistano;CAP
+12362;Fabián Oscar Sahdi;Sahdi;129;Rio Claro;RCB
+12363;Ricardo Sánchez Rosa;Ricky Sánchez;282;Brasília;BSB
+12374;Adyel Felipe Pereira Borges;Adyel;14;Franca;FRA
+12375;Pedro Eduardo Infante Pereira;Pedro;19;São José;SJO
+12381;Marcio Henrique da Costa Santos;Márcio;14;Franca;FRA
+12382;João Victor Fidelis Moda;Fidelis;19;São José;SJO
+12384;Jean Lucas Cardoso de Oliveira;Jean;19;São José;SJO
+12390;Matheus Eugeniusz Silva;Eugeniusz;19;São José;SJO
+12392;Jonas Matheus Buffat;Buffat;18;Pinheiros;PIN
+12393;Daniel Aleixo de Sousa;D. Souza;18;Pinheiros;PIN
+12395;Luan Lima Leite;Luan;18;Pinheiros;PIN
+12396;Matheus Santos Neves da Silva;Buiú;17;Paulistano;CAP
+12399;Felipe Dalaqua Almentra;Dalaqua;279;Corinthians;COR
+12400;Daniel Von Haydin;Von Haydin;279;Corinthians;COR
+12409;Guilherme Carvalho dos Santos;Gui Carvalho;16;Minas;MIN
+12411;Samuel Ribeiro da Cruz;Ribeiro;16;Minas;MIN
+12416;Matheus da Silva Brito;Matheusinho;2;Flamengo;FLA
+12419;Aieser Batista Pereira;Aieser;2;Flamengo;FLA
+12442;Daniel Ifedi Ferreira Onwenu;Daniel;17;Paulistano;CAP
+12444;Luiz Alberto Mendonça do Nascimento;Colina;54;Mogi;MOG
+12445;Vinícius Theodoro Ferreira;Vinícius;54;Mogi;MOG
+12447;Breno Tosini Vieira Machado;Breno;54;Mogi;MOG
+12448;Emanuel Marcilio Matias;Emanuel;13;Bauru;BAU
+12449;Vinicius Gabriel Malachias;Malachias;13;Bauru;BAU
+12450;Pedro Henrique dos Santos Rodrigues;Pedro;267;Botafogo;BOT
+12451;Yan Bastos de Farias;Yan;267;Botafogo;BOT
+12452;Zachary Darnell Graham;Zach Graham;2;Flamengo;FLA
+12453;Windi Graterol Clemente;Graterol;282;Brasília;BSB
+12454;Rodrigo Gonçalves;Rodrigo;282;Brasília;BSB
+12455;Vithor Pereira Massaneiro;V. Massaneiro;268;Joinville / AABJ;JLE
+12456;Jonas Lopes Pereira Nunes;J. Nunes;268;Joinville / AABJ;JLE
+12457;Caio Cesar Leal Veríssimo;Caio;239;Vasco da Gama;VAS
+12458;Gabriel Carlos Mariano dos Santos;Gabriel;282;Brasília;BSB
+12459;Ítalo Bonizioli Honorato;Honorato;279;Corinthians;COR
+12460;Lucas Araujo Oliveira;Araujo;239;Vasco da Gama;VAS
+12461;Ahmad Starks;Starks;268;Joinville / AABJ;JLE
+12462;Luciano Parodi González;Parodi;14;Franca;FRA
+12463;Rafael de Araujo Castro Corrêa;Rafael;17;Paulistano;CAP
+12464;Mateus Henrique Diniz;M. Diniz;268;Joinville / AABJ;JLE
+12465;Rafael Estevam de Souza Pereira;Rafael;268;Joinville / AABJ;JLE
+12466;Gabriel Campos;G. Campos;18;Pinheiros;PIN
+12494;Dominic Terrell Phillips;Phillips;284;Pato Basquete;PAT
+12498;Fernando Andreolli Prochnow;Prochnow;129;Rio Claro;RCB
+12499;Bruno Santilli Fornazari;Bruno;129;Rio Claro;RCB
+12500;Eduardo Barbosa Sanchez;Sanchez;129;Rio Claro;RCB
+12501;Korian Jamar Lucious;Lucious;129;Rio Claro;RCB
+12504;Anderson Rodrigues;Rodrigues;284;Pato Basquete;PAT
+12506;Jalen Dean Jones;Jones;285;São Paulo Futebol Clube;SAO
+12507;Juan Nunes Torralbo;Juan;54;Mogi;MOG
+12508;Murilo do Prado Alves de Souza;Murilo;54;Mogi;MOG
+12509;André de Mattos Guedes;Mattos;54;Mogi;MOG
+12512;Anderson Vinicius de Andrade Pinheiro;Anderson;279;Corinthians;COR
+12514;Lucas Faggiano;Faggiano;13;Bauru;BAU
+12516;Tracy Terrel Robinson;Robinson;279;Corinthians;COR
+12517;Anthony Laveal Johnson;Johnson;279;Corinthians;COR
+12518;Leron Markeis Black;Black;16;Minas;MIN
+12531;Cristhyã Rogério Fernandes da Silva;Cristhyã;17;Paulistano;CAP
+12542;Matheus Maciel Marques de Souza;Maciel;2;Flamengo;FLA
+12559;João Marcello Cardoso Pereira;Mãozinha;18;Pinheiros;PIN
+12562;Elvis José Viana Filho;Viana;18;Pinheiros;PIN
+12563;Alexandre Ludwig Agustinho;A. Ludwig;18;Pinheiros;PIN
+12597;Vitor Penaroti Forti;Vitor;19;São José;SJO
+12598;Andrew Augusto Viana Gomes de Brito;Andrew;13;Bauru;BAU
+12600;Pedro Barros Nunes;Pedro Nunes;2;Flamengo;FLA
+12606;Felipe Esteves Oliveira;Felipe;282;Brasília;BSB
+12608;Yan Djalo Barbosa Te;Yan;279;Corinthians;COR
+12615;Delano Demetrius Spencer II;Spencer;278;UNIFACISA;UFC
+12616;Nicholas Wiggins;Wiggins;13;Bauru;BAU
+12617;Malcolm Jamal Miller;Miller;278;UNIFACISA;UFC
+12618;Jeremiah Timotheus Massey;Massey;13;Bauru;BAU
+12671;Charles Vastine Funches III;Funches III;284;Pato Basquete;PAT
+12676;Devon Henry Scott;Scott;16;Minas;MIN
+12677;Carlos Leonel Schattmann;Schattmann;14;Franca;FRA
+12678;Matheus Almeida Sanches Damião;Sanches;54;Mogi;MOG
+12679;Gabriel Ziggy Dantas Raposo;Ziggy;54;Mogi;MOG
+12680;Matheus Gonzaga da Silva;Gonzaga;54;Mogi;MOG
+12681;Gelvis Andres Solano Paulino;Solano;17;Paulistano;CAP
+12683;Walter Clay Baxley;Baxley;129;Rio Claro;RCB
+12684;Guido Mariani;Mariani;19;São José;SJO
+12685;Carlos Emanuel Buemo;Buemo;19;São José;SJO
+12686;Diego Rafael Figueredo;Figueredo;19;São José;SJO
+12687;Santiago Adolfo Vidal Casaretto;Pepo Vidal;278;UNIFACISA;UFC
+12688;Angustin Antonio Ambrosino;Ambrosino;19;São José;SJO
+12689;Anthony Eugene Smith Jr;Smith;284;Pato Basquete;PAT
+12690;Freddie Antonia Mcswain Jr;Freddie;267;Botafogo;BOT
+12691;Kevin Rolando Foster;Kevin Foster;17;Paulistano;CAP
+12692;Eloy Antônio Camacho Vargas;Vargas;2;Flamengo;FLA
+12693;Brent Roderick Jackson Jr;Jackson Jr;16;Minas;MIN
+12694;Daviyon Curtis Draper;Draper;13;Bauru;BAU
+12695;Nehemias Morillo Lajara;Morillo;19;São José;SJO
+12696;Gustavo Javier Barrera Castro;Barrera;2;Flamengo;FLA
+12697;Dikembe Malik Dixson;Dixson;278;UNIFACISA;UFC
+12699;Matheus Veloso Torres;Veloso;282;Brasília;BSB
+12700;Dhomini Alex Vieira;Dhomini;129;Rio Claro;RCB
+12701;Augusto César Prospero Barbosa;Augusto;129;Rio Claro;RCB
+12704;Daniel Suassuna da Fonte;Suassuna;282;Brasília;BSB
+12705;Raffael Mencarini;Mencarini;279;Corinthians;COR
